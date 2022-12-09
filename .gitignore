@@ -1,3 +1,5 @@
 sparse_concat.h5ad
 cmraw_sparse1
 cmraw_sparse2
+.ipynb_checkpoints*
+data/
